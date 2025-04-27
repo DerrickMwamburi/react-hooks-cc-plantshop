@@ -1,4 +1,3 @@
-
 {
   "plants": [
     {
@@ -48,6 +47,24 @@
       "image": " image",
       "price": 0,
       "id": 8
+    },
+    {
+      "name": " '[;",
+      "image": " ",
+      "price": 0,
+      "id": 9
+    },
+    {
+      "name": " dgdg",
+      "image": " dgdg",
+      "price": "-0.03",
+      "id": 10
+    },
+    {
+      "name": "bunt",
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGxhbnR8ZW58MHx8MHx8fDA%3D",
+      "price": "0.72",
+      "id": 11
     }
   ]
 }
